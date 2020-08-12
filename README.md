@@ -1,14 +1,13 @@
 Esse projeto foi criado durante a Next Level Week, evento online da Rocketseat. Chama-se <strong>Ecoleta</strong> e funciona como um sistema
 que cadastra pontos de coleta de lixo reciclável. O usuário pode criar um ponto de coleta e selecionar os itens disponíveis no local.
 
-
 ## Instalação
 
 Para instalar o projeto, faça o clone do repositório em sua máquina usando `git clone`, entre na pasta `backend` e execute:
 
 `yarn install`
 
-Depois entre na pasta `frontend` e execute:
+Depois entre na pasta `web` e execute:
 
 `yarn install`
 
@@ -18,7 +17,7 @@ Com todas as dependências instaladas, entre na pasta `backend` e execute:
 
 `yarn server`
 
-Logo em seguida, vá para a pasta `frontend` e execute:
+Logo em seguida, vá para a pasta `web` e execute:
 
 `yarn start`
 
